@@ -1,0 +1,22 @@
+{
+  "name": "tutpntnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "viginayak007"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "msnodesqlv8": "^0.4.9",
+    "mssql": "^4.1.0",
+    "tedious": "^2.1.5"
+  }
+}

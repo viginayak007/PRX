@@ -1,0 +1,29 @@
+https://www.codementor.io/git/tutorial/git-github-tutorial-for-beginners
+
+//quick Git command
+git init
+git log
+ 
+git add .//.for all or filename
+git commit -m "comment"
+
+//branch
+git branch branchname
+git checkout branchname
+
+//merge file
+git merge feature_x
+
+
+// git to backup and restore
+
+git bundle create filename master
+
+git clone filename -b master newFilename
+
+
+
+curl -u 'viginayak007:password' https://api.github.com/user/repos -d '{"name":"Quiz","description":"React Redux with Webpack","private":false}'
+
+
+
